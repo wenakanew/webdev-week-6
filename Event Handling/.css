@@ -1,0 +1,8 @@
+#hoverBox {
+  width: 150px;
+  height: 150px;
+  background: lightblue;
+  text-align: center;
+  line-height: 150px;
+  transition: background 0.3s;
+}
